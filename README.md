@@ -1,3 +1,3 @@
-# Tópicos Especiais - Introdução ao Deep Learning (ET0XX)
+# Tópicos Especiais - Introdução ao Deep Learning (ET096)
 
 ## Índice dos Notebooks do curso (na seqüência):
