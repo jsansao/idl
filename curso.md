@@ -14,7 +14,7 @@ O Aprendizado Profundo, por sua vez, é um sub-ramo do Aprendizado de Máquina. 
 
 A metodologia do Aprendizado Profundo pode ser empregada em diversas áreas, como o reconhecimento de fala, processamento natural de linguagem, séries temporais e em Visão Computacional.
 
-Os tópicos seguintes serão tratados no curso:
+Os tópicos seguintes serão tratados no curso, com aplicações nas áreas citadas:
 
 - Introdução ao aprendizado de máquina
 - Regressão linear e logística 
@@ -22,8 +22,8 @@ Os tópicos seguintes serão tratados no curso:
 - Redes neurais profundas 
 - Backpropagation e otimização
 - Regularização e normalização de lote
-- CNN
-- RNN
-- LTSM
-- GAN
+- CNN (Redes neurais convolucionais) 
+- RNN (Redes recorrente) e LTSM
 - Transformers
+- GAN (Rede generativas adversariais)
+
