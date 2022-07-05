@@ -34,9 +34,22 @@
 20. [Lição 16 - Pré-processamento de arquivos JSON - Dataset Sarcasmo](Licao16_PreprocessamentoJSON_Sarcasmo.ipynb)
 21. [Lição 17 - Pré-processamento de arquivos CSV - Remoção de stopwords](Licao17_PreprocessamentoCSV_RemocaoStopwords.ipynb)
 22. [Lição 18 - Análise de sentimento IMDB com MLP](Licao18_SentimentoIMDB_MLP.ipynb)
-23. [Lição 19 - Classificaão sarcasmo com MLP](Licao19_SarcasmoMLP_Pooling.ipynb)
+23. [Lição 19 - Classificação sarcasmo com MLP](Licao19_SarcasmoMLP_Pooling.ipynb)
 24. [Lição 20 - Sentimentos IMDB com subwords](Licao20_IMDB_Embedding.ipynb)
 25. [Lição 21 - IMDB com LSTM](Licao21_IMDB_LSTM.ipynb)
 26. [Lição 21 - IMDB com LSTM multi-layer](Licao21bis_IMDB_LTSM_Multilayer.ipynb)
 27. [Lição 21 bis 2 - IMDB com GRU](Licao21_bis2_IMDB_GRU.ipynb)
+28. [Lição 22 - Sarcasmo com LTSM](Licao22_SarcasmoLTSM.ipynb)
+29. [Lição 23 - IMDB comparação de métodos](Licao23_IMDB_Comparacao.ipynb)
+30. [Lição 24 - Predição com LTSM](Licao24_PredicaoLTSM.ipynb)
+31. [Lição 25 - Predição com corpus externo](Licao25_PredicaoCorpus.ipynb)
+32. [Lição 26 - IMDB com BERT](Licao26_BERT_IMDB.ipynb)
+33. [Lição 27 - Tradução português-inglês com transformer](Licao27_TransformerFromScratch.ipynb)
+
+### Outras aplicações de deep-learning 
+
+34. [Lição 28 - DCGAN - Face dataset](Licao28_DCGAN_TFD.ipynb)
+35. [Lição 29 - YOLOv5 - Detecção de máscaras](Licao29_Treinamento_NanoYOLOv5.ipynb)
+
+
 
