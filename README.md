@@ -44,12 +44,16 @@
 30. [Lição 24 - Predição com LTSM](Licao24_PredicaoLTSM.ipynb)
 31. [Lição 25 - Predição com corpus externo](Licao25_PredicaoCorpus.ipynb)
 32. [Lição 26 - IMDB com BERT](Licao26_BERT_IMDB.ipynb)
-33. [Lição 27 - Tradução português-inglês com transformer](Licao27_TransformerFromScratch.ipynb)
+33. [Lição 27 - Tradução português-inglês com trIdentificação Facial - Visual Embeddingçãansformer](Licao27_TransformerFromScratch.ipynb)
+
 
 ### Outras aplicações de deep-learning 
 
 34. [Lição 28 - DCGAN - Face dataset](Licao28_DCGAN_TFD.ipynb)
 35. [Lição 29 - YOLOv5 - Detecção de máscaras](Licao29_Treinamento_NanoYOLOv5.ipynb)
-
+36. [Lição 30 - Detecção Facial - MTCNN ](Licao30_DeteccaoFacial_MTCNN.ipynb)
+37. [Lição 31 - VGGFACE2 - Reconhecimento Facial](Licao31_VGGFACE2.ipynb)
+38. [Lição 32 - Identificação Facial - Visual Embedding](Licao32_IdentificacaoFacial_VisualEmbeddings.ipynb)
+39. [Lição 32bis - Identificação Facial - Fine-tuning](Licao32bis_IdentificacaoFacial_FineTuning.ipynb)
 
 
